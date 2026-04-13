@@ -41,6 +41,6 @@
     "hexo-tag-color-block": "0.0.3",
     "html-webpack-plugin": "^5.5.0",
     "mini-css-extract-plugin": "^2.7.5",
-    "typed.js": "^2.0.12"
+    "typed.js": "^3.0.0"
   }
 }
