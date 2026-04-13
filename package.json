@@ -32,7 +32,7 @@
     "hexo-theme-inside": "^2.7.0",
     "hexo-theme-landscape": "^0.0.3",
     "jquery": "^3.6.3",
-    "node-sass": "^4.12.0"
+    "node-sass": "^9.0.0"
   },
   "devDependencies": {
     "bootstrap": "^4.0.0",
